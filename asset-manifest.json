@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/alterrasoft-build/static/css/main.82d60c66.chunk.css",
+    "main.js": "/alterrasoft-build/static/js/main.727ae96c.chunk.js",
+    "main.js.map": "/alterrasoft-build/static/js/main.727ae96c.chunk.js.map",
+    "runtime~main.js": "/alterrasoft-build/static/js/runtime~main.97f1a1f8.js",
+    "runtime~main.js.map": "/alterrasoft-build/static/js/runtime~main.97f1a1f8.js.map",
+    "static/css/2.30d946b3.chunk.css": "/alterrasoft-build/static/css/2.30d946b3.chunk.css",
+    "static/js/2.51bd0393.chunk.js": "/alterrasoft-build/static/js/2.51bd0393.chunk.js",
+    "static/js/2.51bd0393.chunk.js.map": "/alterrasoft-build/static/js/2.51bd0393.chunk.js.map",
+    "index.html": "/alterrasoft-build/index.html",
+    "precache-manifest.10c504a0bdea0047de2dc3c8ca37bdb7.js": "/alterrasoft-build/precache-manifest.10c504a0bdea0047de2dc3c8ca37bdb7.js",
+    "service-worker.js": "/alterrasoft-build/service-worker.js",
+    "static/css/2.30d946b3.chunk.css.map": "/alterrasoft-build/static/css/2.30d946b3.chunk.css.map",
+    "static/css/main.82d60c66.chunk.css.map": "/alterrasoft-build/static/css/main.82d60c66.chunk.css.map",
+    "static/media/logo.svg": "/alterrasoft-build/static/media/logo.81c88265.svg",
+    "static/media/App.css": "/alterrasoft-build/static/media/slick.f97e3bbf.svg"
+  }
+}
